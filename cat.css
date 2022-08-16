@@ -1,0 +1,22 @@
+h1, h2{
+    
+    color:rgb(65, 42, 165);
+}
+p{
+    color:rgb(80, 112, 255);
+}
+* {
+    background-color: ivory;
+}
+h1{
+    text-align: center;
+    color: rgb(65, 40, 194);
+}
+h3{
+    color:rgba(19, 19, 170, 0.308)
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: verdana;
+}
